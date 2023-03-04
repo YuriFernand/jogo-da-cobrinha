@@ -1,4 +1,4 @@
-![Logo of the project](![Logo of the project](https://github.com/YuriFernand/jogo-da-cobrinha/blob/main/public/snake_1f40d.png))
+(![Logo of the project](https://github.com/YuriFernand/jogo-da-cobrinha/blob/main/public/snake_1f40d.png)
 
 # jogo-da-cobrinha
 

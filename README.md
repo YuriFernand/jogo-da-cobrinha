@@ -5,3 +5,11 @@
 ## Tecnologias Usadas:
 *JavaScript
 *HTML
+
+## Ruby Gems
+
+* Devise
+* Bootstrap
+* Kaminari
+* Select2
+* Cancancan

@@ -1,4 +1,4 @@
-![Logo of the project](https://github.com/YuriFernand/jogo-da-cobrinha/blob/main/public/snake_1f40d.png)
+
 
 # jogo-da-cobrinha
 
@@ -10,6 +10,7 @@ joguinho da cobra, que antes via nos celular, usando diversa função para fazer
 ## Tecnologias Usadas:
 
 * JavaScript
+* CSS
 * HTML
 
 ### 1 - Imagem do projeto concluindo e operando <3
@@ -21,5 +22,5 @@ joguinho da cobra, que antes via nos celular, usando diversa função para fazer
 * Linkerdin: https://www.linkedin.com/in/yuri-fernando-b5b472181
 * Email: fernandobarradossantosyuri@gmail.com
 
-isto esta
+
 
